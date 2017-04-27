@@ -5,5 +5,5 @@ configured linux  web server
 1. Public IP Address/URL
   * http://54.144.188.34/
 2. SSH PORT
-  *2200
+  * 2200
 

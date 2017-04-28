@@ -8,4 +8,18 @@ configured linux  web server
 ### Installed Software
 * GIT
 * PostgreSQL
+* mod_wsgi
+* Apache
+* Flask
+* Sqlalchemy
+
+### JavaScript/CSS
+* Jquery
+* Twitter BootStrap
+
+
+#### Server Modification
+> A New User was created and granted sudo rights.
+> 
+
 

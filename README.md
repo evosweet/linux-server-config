@@ -29,8 +29,13 @@ configured linux  web server
 * Modify /etc/apache2/sites-enabled/000-default.conf
 * Cloned GIT repo ```https://github.com/evosweet/item_catalog```
 
-#### Repo Modifications
+#### Repo Project Modifications
 * DB setup script was changed to use PostgreSQL insted of SqlLite.
+* Main finalproject.py script updated to PostgreSQL.
+* IP and Port specific infrmation was removed from finalproject.py.
+* catalog.wsgi file was created to point to finalproject.py
 
-
-
+#### Resources
+[Amazon AWS](https://aws.amazon.com/)
+[Profitbricks](https://devops.profitbricks.com/tutorials/deploy-a-flask-application-on-ubuntu-1404/)
+[Help Ubuntu](https://help.ubuntu.com/12.04/serverguide/firewall.html)

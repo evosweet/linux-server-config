@@ -36,6 +36,6 @@ configured linux  web server
 * catalog.wsgi file was created to point to finalproject.py
 
 #### Resources
-[Amazon AWS](https://aws.amazon.com/)
-[Profitbricks](https://devops.profitbricks.com/tutorials/deploy-a-flask-application-on-ubuntu-1404/)
-[Help Ubuntu](https://help.ubuntu.com/12.04/serverguide/firewall.html)
+* [Amazon AWS](https://aws.amazon.com/)
+* [Profitbricks](https://devops.profitbricks.com/tutorials/deploy-a-flask-application-on-ubuntu-1404/)
+* [Help Ubuntu](https://help.ubuntu.com/12.04/serverguide/firewall.html)
